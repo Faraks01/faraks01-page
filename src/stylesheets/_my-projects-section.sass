@@ -1,0 +1,42 @@
+main
+  &.my-projects-section
+    .card
+      transition: 0.5s
+
+    .card-lg
+      display: none
+
+      *
+        text-decoration: none
+        color: white
+        font-family: Merriweather
+        font-weight: 400
+        transition: 0.5s
+
+      .overlay
+        opacity: 0
+        background-color: rgba(0, 0, 0, 0.8)
+
+        .card-title
+          font-weight: 700
+
+        .card-text
+          line-height: 2rem
+
+      &:hover:not(.card-sm)
+        transform: scale(1.05)
+
+        .card-img
+          filter: blur(5px)
+
+        .overlay
+          opacity: 1
+
++media-breakpoint-up(lg)
+  main
+    &.my-projects-section
+      .card-sm
+        display: none !important
+
+      .card-lg
+        display: block !important

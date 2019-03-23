@@ -1,0 +1,92 @@
+[
+  {
+    "key": "google",
+    "content": "Гугл",
+    "url": "https://www.google.com/"
+  },
+  {
+    "key": "habr",
+    "content": "Хабрахабр",
+    "url": "https://habr.com/ru/"
+  },
+  {
+    "key": "kantor",
+    "content": "Ильи Кантора",
+    "url": "https://learn.javascript.ru/"
+  },
+  {
+    "key": "mdn",
+    "content": "Веб-документация MDN",
+    "url": "https://developer.mozilla.org/ru-RU/"
+  },
+  {
+    "key": "spa",
+    "content": "SPA",
+    "url": "https://en.wikipedia.org/wiki/Single-page_application"
+  },
+  {
+    "key": "react",
+    "content": "ReactJS",
+    "url": "https://reactjs.org/"
+  },
+  {
+    "key": "redux",
+    "content": "Redux",
+    "url": "https://redux.js.org/"
+  },
+  {
+    "key": "createRApp",
+    "content": "\"Create-React-App\"",
+    "url": "https://facebook.github.io/create-react-app/"
+  },
+  {
+    "key": "webpack",
+    "content": "Webpack",
+    "url": "https://webpack.js.org/"
+  },
+  {
+    "key": "git",
+    "content": "Git",
+    "url": "https://git-scm.com/"
+  },
+  {
+    "key": "github",
+    "content": "GitHub",
+    "url": "https://github.com/"
+  },
+  {
+    "key": "npm",
+    "content": "Npm",
+    "url": "https://www.npmjs.com/"
+  },
+  {
+    "key": "sass",
+    "content": "Sass",
+    "url": "https://sass-lang.com/"
+  },
+  {
+    "key": "bootstrap",
+    "content": "Bootstrap",
+    "url": "https://getbootstrap.com/"
+  },
+  {
+    "key": "node",
+    "content": "NodeJS",
+    "url": "https://nodejs.org/en/"
+  },
+  {
+    "key": "express",
+    "content": "ExpressJS",
+    "url": "https://expressjs.com/"
+  },
+  {
+    "key": "mongodb",
+    "content": "MongoDB",
+    "url": "https://www.mongodb.com/"
+  },
+  {
+    "key": "stackoverflow",
+    "content": "Stack Overflow",
+    "url": "https://stackoverflow.com/"
+  }
+]
