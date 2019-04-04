@@ -55,7 +55,6 @@ class Table extends React.Component {
 
   render () {
     let { feedbacks } = this.props;
-    console.log(feedbacks);
     return (
       feedbacks
         ? <ReactBootstrapTable variant="dark" bordered responsive={true}>
