@@ -10,6 +10,8 @@
 
 --Twitter Bootstrap
 
+--React-Bootstrap
+
 --Firebase
 
 В процессе работы старался познакомиться с Redux-Thunk.
