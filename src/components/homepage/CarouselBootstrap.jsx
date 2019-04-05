@@ -35,7 +35,7 @@ class CarouselBootstrap extends React.Component {
           <Carousel className="col-xl-6 col-lg-8 col-md-10 m-0 p-0" controls={controls}>
             {logoArray.map((logo, i) => (
               <Carousel.Item key={"logo--" + i}>
-                <div className="w-100" style={{background: `url(${logo}) center no-repeat`, backgroundSize: "cover", height: "360px"}} />
+                <div className="w-100" style={{background: `url(${logo}) center no-repeat`, backgroundSize: "cover", height: "348px"}} />
               </Carousel.Item>
             ))}
           </Carousel>

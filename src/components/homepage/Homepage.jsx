@@ -5,7 +5,7 @@ import LogoSection from './LogoSection.jsx'
 
 const Homepage = (props) => {
   return (
-    <main>
+    <main className="d-flex flex-column">
       <CarouselBootstrap />
       <JumbotBootstrap/>
       <LogoSection/>
