@@ -11,13 +11,20 @@
 @import url("https://fonts.googleapis.com/css?family=Merriweather:400,700")
 
 #root
-  padding-top: 62px
+    min-height: 100vh
+    display: flex
+    flex-direction: column
+    padding-top: 62px
+  
 
 nav
   min-height: 62px
 
 main
-  min-height: calc(100vh - 84px - 62px)
+    flex-grow: 1
+    flex-basis: auto
+    position: relative
 
 footer
-  min-height: 84px
+    margin-top: auto
+    min-height: 84px !important
