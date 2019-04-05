@@ -1,0 +1,10 @@
+{
+	"RU": {
+		"title": "ВНИМАНИЕ! Вы используете браузер Internet Explorer",
+		"text": "Данный сайт построен на передовых, современных технологиях и НЕ ПОДДЕРЖИВАЕТ Internet Explorer. Настоятельно Вам рекомендуем выбрать и установить любой из современных браузеров. Это бесплатно и займет всего несколько минут."
+	},
+	"EN": {
+		"title": "ATTENTION! You are using Internet Explorer",
+		"text": "This site is built on advanced, modern technologies and DOES NOT SUPPORT Internet Explorer. We strongly recommend that you select and install any of the modern browsers. It's free and takes only a few minutes."
+	}
+}
